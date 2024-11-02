@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Informatica\Desarrollo de Aplicaciones\RA1 Ejercicios en c#\ejercicio7\bin\Debug\net8.0\ejercicio7.exe
+C:\Users\user\Desktop\Informatica\Desarrollo de Aplicaciones\RA1 Ejercicios en c#\ejercicio7\bin\Debug\net8.0\ejercicio7.deps.json
+C:\Users\user\Desktop\Informatica\Desarrollo de Aplicaciones\RA1 Ejercicios en c#\ejercicio7\bin\Debug\net8.0\ejercicio7.runtimeconfig.json
+C:\Users\user\Desktop\Informatica\Desarrollo de Aplicaciones\RA1 Ejercicios en c#\ejercicio7\bin\Debug\net8.0\ejercicio7.dll
+C:\Users\user\Desktop\Informatica\Desarrollo de Aplicaciones\RA1 Ejercicios en c#\ejercicio7\bin\Debug\net8.0\ejercicio7.pdb
+C:\Users\user\Desktop\Informatica\Desarrollo de Aplicaciones\RA1 Ejercicios en c#\ejercicio7\obj\Debug\net8.0\ejercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Informatica\Desarrollo de Aplicaciones\RA1 Ejercicios en c#\ejercicio7\obj\Debug\net8.0\ejercicio7.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Informatica\Desarrollo de Aplicaciones\RA1 Ejercicios en c#\ejercicio7\obj\Debug\net8.0\ejercicio7.AssemblyInfo.cs
+C:\Users\user\Desktop\Informatica\Desarrollo de Aplicaciones\RA1 Ejercicios en c#\ejercicio7\obj\Debug\net8.0\ejercicio7.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Informatica\Desarrollo de Aplicaciones\RA1 Ejercicios en c#\ejercicio7\obj\Debug\net8.0\ejercicio7.dll
+C:\Users\user\Desktop\Informatica\Desarrollo de Aplicaciones\RA1 Ejercicios en c#\ejercicio7\obj\Debug\net8.0\refint\ejercicio7.dll
+C:\Users\user\Desktop\Informatica\Desarrollo de Aplicaciones\RA1 Ejercicios en c#\ejercicio7\obj\Debug\net8.0\ejercicio7.pdb
+C:\Users\user\Desktop\Informatica\Desarrollo de Aplicaciones\RA1 Ejercicios en c#\ejercicio7\obj\Debug\net8.0\ejercicio7.genruntimeconfig.cache
+C:\Users\user\Desktop\Informatica\Desarrollo de Aplicaciones\RA1 Ejercicios en c#\ejercicio7\obj\Debug\net8.0\ref\ejercicio7.dll

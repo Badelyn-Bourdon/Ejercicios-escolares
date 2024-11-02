@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA2 Ejercicio en c#\1 Condicionales\ejercicio10\bin\Debug\net8.0\ejercicio10.exe
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA2 Ejercicio en c#\1 Condicionales\ejercicio10\bin\Debug\net8.0\ejercicio10.deps.json
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA2 Ejercicio en c#\1 Condicionales\ejercicio10\bin\Debug\net8.0\ejercicio10.runtimeconfig.json
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA2 Ejercicio en c#\1 Condicionales\ejercicio10\bin\Debug\net8.0\ejercicio10.dll
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA2 Ejercicio en c#\1 Condicionales\ejercicio10\bin\Debug\net8.0\ejercicio10.pdb
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA2 Ejercicio en c#\1 Condicionales\ejercicio10\obj\Debug\net8.0\ejercicio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA2 Ejercicio en c#\1 Condicionales\ejercicio10\obj\Debug\net8.0\ejercicio10.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA2 Ejercicio en c#\1 Condicionales\ejercicio10\obj\Debug\net8.0\ejercicio10.AssemblyInfo.cs
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA2 Ejercicio en c#\1 Condicionales\ejercicio10\obj\Debug\net8.0\ejercicio10.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA2 Ejercicio en c#\1 Condicionales\ejercicio10\obj\Debug\net8.0\ejercicio10.dll
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA2 Ejercicio en c#\1 Condicionales\ejercicio10\obj\Debug\net8.0\refint\ejercicio10.dll
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA2 Ejercicio en c#\1 Condicionales\ejercicio10\obj\Debug\net8.0\ejercicio10.pdb
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA2 Ejercicio en c#\1 Condicionales\ejercicio10\obj\Debug\net8.0\ejercicio10.genruntimeconfig.cache
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA2 Ejercicio en c#\1 Condicionales\ejercicio10\obj\Debug\net8.0\ref\ejercicio10.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Instituto Politecnico Pedro Feliciano Martinez\\Informatica\\Desarrollo de Aplicaciones\\RA2 Ejercicio en c#\\Array \u002B Matrizes\\ejercicio 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4C201D-5918-4828-9B8B-9FE8EBD7FE71}|ejercicio 2.csproj|c:\\users\\user\\documents\\instituto politecnico pedro feliciano martinez\\informatica\\desarrollo de aplicaciones\\ra2 ejercicio en c#\\array \u002B matrizes\\ejercicio 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4C201D-5918-4828-9B8B-9FE8EBD7FE71}|ejercicio 2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Instituto Politecnico Pedro Feliciano Martinez\\Informatica\\Desarrollo de Aplicaciones\\RA2 Ejercicio en c#\\Array \u002B Matrizes\\ejercicio 2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Instituto Politecnico Pedro Feliciano Martinez\\Informatica\\Desarrollo de Aplicaciones\\RA2 Ejercicio en c#\\Array \u002B Matrizes\\ejercicio 2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:31:51.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
