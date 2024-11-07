@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Badelyn_prueba_tecnica_01.", "..\Badelyn_prueba_tecnica_01\Badelyn_prueba_tecnica_01..csproj", "{1AAA88C0-9B33-4477-BEA4-5E488E4DE613}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AAA88C0-9B33-4477-BEA4-5E488E4DE613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AAA88C0-9B33-4477-BEA4-5E488E4DE613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AAA88C0-9B33-4477-BEA4-5E488E4DE613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AAA88C0-9B33-4477-BEA4-5E488E4DE613}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47B04EDD-1160-4185-ABCD-12316EAA9B19}
+	EndGlobalSection
+EndGlobal
