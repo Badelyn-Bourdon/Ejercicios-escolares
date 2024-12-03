@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\Clases de compa;eros\Aprendiendo con john\obj\Debug\Aprendiendo con john.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\Clases de compa;eros\Aprendiendo con john\obj\Debug\Aprendiendo_con_john.Form1.resources
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\Clases de compa;eros\Aprendiendo con john\obj\Debug\Aprendiendo_con_john.MDIParent1.resources
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\Clases de compa;eros\Aprendiendo con john\obj\Debug\Aprendiendo_con_john.Properties.Resources.resources
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\Clases de compa;eros\Aprendiendo con john\obj\Debug\Aprendiendo con john.csproj.GenerateResource.cache
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\Clases de compa;eros\Aprendiendo con john\obj\Debug\Aprendiendo con john.csproj.CoreCompileInputs.cache
