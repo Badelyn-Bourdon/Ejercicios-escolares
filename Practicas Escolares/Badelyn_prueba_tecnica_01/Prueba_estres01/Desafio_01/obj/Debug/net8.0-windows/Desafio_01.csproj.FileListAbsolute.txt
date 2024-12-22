@@ -1,0 +1,17 @@
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\Practicas Escolares\Desafio_01\bin\Debug\net8.0-windows\Desafio_01.exe
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\Practicas Escolares\Desafio_01\bin\Debug\net8.0-windows\Desafio_01.deps.json
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\Practicas Escolares\Desafio_01\bin\Debug\net8.0-windows\Desafio_01.runtimeconfig.json
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\Practicas Escolares\Desafio_01\bin\Debug\net8.0-windows\Desafio_01.dll
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\Practicas Escolares\Desafio_01\bin\Debug\net8.0-windows\Desafio_01.pdb
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\Practicas Escolares\Desafio_01\obj\Debug\net8.0-windows\Desafio_01.Form1.resources
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\Practicas Escolares\Desafio_01\obj\Debug\net8.0-windows\Desafio_01.csproj.GenerateResource.cache
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\Practicas Escolares\Desafio_01\obj\Debug\net8.0-windows\Desafio_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\Practicas Escolares\Desafio_01\obj\Debug\net8.0-windows\Desafio_01.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\Practicas Escolares\Desafio_01\obj\Debug\net8.0-windows\Desafio_01.AssemblyInfo.cs
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\Practicas Escolares\Desafio_01\obj\Debug\net8.0-windows\Desafio_01.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\Practicas Escolares\Desafio_01\obj\Debug\net8.0-windows\Desafio_01.sourcelink.json
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\Practicas Escolares\Desafio_01\obj\Debug\net8.0-windows\Desafio_01.dll
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\Practicas Escolares\Desafio_01\obj\Debug\net8.0-windows\refint\Desafio_01.dll
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\Practicas Escolares\Desafio_01\obj\Debug\net8.0-windows\Desafio_01.pdb
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\Practicas Escolares\Desafio_01\obj\Debug\net8.0-windows\Desafio_01.genruntimeconfig.cache
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\Practicas Escolares\Desafio_01\obj\Debug\net8.0-windows\ref\Desafio_01.dll
