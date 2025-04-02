@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Solution1\capaNegocio\bin\Debug\capaNegocio.dll
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Solution1\capaNegocio\bin\Debug\capaNegocio.pdb
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Solution1\capaNegocio\bin\Debug\capaDatos.dll
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Solution1\capaNegocio\bin\Debug\capaDatos.pdb
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Solution1\capaNegocio\obj\Debug\capaNegocio.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Solution1\capaNegocio\obj\Debug\capaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Solution1\capaNegocio\obj\Debug\capaNego.836DF9B9.Up2Date
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Solution1\capaNegocio\obj\Debug\capaNegocio.dll
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Solution1\capaNegocio\obj\Debug\capaNegocio.pdb

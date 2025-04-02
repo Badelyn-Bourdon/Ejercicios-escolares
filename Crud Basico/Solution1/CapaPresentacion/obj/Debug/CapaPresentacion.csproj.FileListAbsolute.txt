@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Solution1\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Solution1\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Solution1\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Solution1\CapaPresentacion\bin\Debug\capaNegocio.dll
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Solution1\CapaPresentacion\bin\Debug\capaDatos.dll
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Solution1\CapaPresentacion\bin\Debug\capaNegocio.pdb
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Solution1\CapaPresentacion\bin\Debug\capaDatos.pdb
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.FrmHome.resources
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Solution1\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
