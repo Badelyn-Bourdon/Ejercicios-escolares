@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Tienda_Love\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Tienda_Love\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Tienda_Love\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Tienda_Love\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Tienda_Love\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\user\Documents\Instituto Politecnico Pedro Feliciano Martinez\Informatica\Desarrollo de Aplicaciones\RA #3\Crud Basico\Tienda_Love\CapaDatos\obj\Debug\CapaDatos.pdb
